@@ -1,10 +1,16 @@
 ![Header](https://github.com/Stingray07/Stingray07/releases/download/Stingray07/github-header-image.2.png)
+<h1 align="center">Hey! 👋</h1>
+<h3 align="center">An aspiring backend software engineer and a computer science student</h3>
 
-
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp">
-
+<img align="right" alt="Coding" width="300" height="300" src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stingray07&label=Profile%20views&color=0e75b6&style=flat" alt="stingray07" /> </p>
+
+- 🌱 I’m currently learning **Docker & AWS**
+
+- 📫 How to reach me: **stingraysonggay@gmail.com**
+
+- ⚡ Fun fact: **Stingray is my real name**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
